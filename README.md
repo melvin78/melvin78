@@ -1,16 +1,18 @@
 ### Hi there 👋
+I'm Melvin. A full stack dev i works with mainly C#, PHP and JavaScript.
 
-<!--
-**melvin78/melvin78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Here is my website https://webmelvin.me where i share my thoughts and opinions
+going on in the tech world and my personal projects.
 
-Here are some ideas to get you started:
+🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
