@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Melvin. 
-👨‍💻A full stack dev.
+👨‍💻A full stack developer.
 
 I work with C#, PHP and JavaScript.
 
